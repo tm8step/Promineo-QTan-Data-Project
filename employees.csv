@@ -1,0 +1,31 @@
+,emp_id,emp_name,emp_email,years_worked,salary,position,department
+0,FQ0595,Valerie Smith,ve.smith@qtan.com,13,130336.8,CEO,management
+1,FH3345,Amanda Jordan,aa.jordan@qtan.com,5,89955.0,Sales Manager,sales
+2,BP2993,Lance Lyons,le.lyons@qtan.com,6,75128.3,Purchasing Manager,purchasing
+3,CZ6070,Michelle Brooks,me.brooks@qtan.com,10,95934.0,Tech Manager,tech
+4,NU7547,Brittany Thomas,by.thomas@qtan.com,8,108330.6,Finance Manager,finance
+5,FS1284,Michael Sanchez,ml.sanchez@qtan.com,13,120745.35,Warehouse Manager,warehouse
+6,TU1432,Deborah Sutton,dh.sutton@qtan.com,8,83623.4,salesperson,sales
+7,YA3197,Joseph Martin,jh.martin@qtan.com,10,99750.0,salesperson,sales
+8,QS0240,Autumn Vasquez,an.vasquez@qtan.com,0,66180.0,salesperson,sales
+9,JS5760,John Rios,jn.rios@qtan.com,11,111724.0,salesperson,sales
+10,NX1325,Sara Hansen,sa.hansen@qtan.com,6,65640.9,sales assistant,sales
+11,HQ5620,Jeffrey Spence,jy.spence@qtan.com,6,75494.9,customer support,sales
+12,GR1829,Linda Riley,la.riley@qtan.com,1,57902.25,purchaser,purchasing
+13,SK1586,Jane Flores,je.flores@qtan.com,12,86569.6,purchaser,purchasing
+14,BN1521,Angela Thomas,aa.thomas@qtan.com,2,56354.1,purchaser,purchasing
+15,RF9742,Julie Daniels,je.daniels@qtan.com,2,64901.1,purchaser,purchasing
+16,GY0534,Jesse Hampton,je.hampton@qtan.com,0,59820.0,purchasing assistant,purchasing
+17,GP4406,Miguel Anderson,ml.anderson@qtan.com,0,55085.0,website developer,tech
+18,NW1385,Heather Jones,hr.jones@qtan.com,5,76347.5,IT,tech
+19,PD2496,Jasmine Gonzales,je.gonzales@qtan.com,3,80920.9,tech assistant,tech
+20,TM1107,Jonathan Smith,jn.smith@qtan.com,8,103388.6,tech assistant,tech
+21,ZC3551,Robert Rivas,rt.rivas@qtan.com,11,100179.6,accountant,finance
+22,EJ4247,Amanda Martin,aa.martin@qtan.com,0,54824.0,accountant,finance
+23,EW2031,Charles Pineda,cs.pineda@qtan.com,8,84345.8,accounting assistant,finance
+24,EM5865,Michelle Ramos,me.ramos@qtan.com,6,96989.1,warehouse worker,warehouse
+25,GT8677,Francisco Cochran,fo.cochran@qtan.com,10,106444.5,warehouse worker,warehouse
+26,JM7972,Matthew Hall,mw.hall@qtan.com,5,64540.0,warehouse worker,warehouse
+27,HG2493,Samuel Henry,sl.henry@qtan.com,4,87309.6,executive assistant,general office
+28,QM8435,Jesus Frank,js.frank@qtan.com,3,75228.4,executive assistant,general office
+29,MP1457,Brad Macias,bd.macias@qtan.com,11,94102.05,human resources,general office
